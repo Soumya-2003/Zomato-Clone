@@ -153,7 +153,7 @@ pipeline {
         }
         stage ("Git Checkout") {
             steps {
-                git 'https://github.com/Soumya-2003/Zomato-Clone.git'
+                git 'https://github.com/Soumya-2003/Zomato-Devopsified.git'
             }
         }
         stage("Sonarqube Analysis"){
@@ -732,6 +732,7 @@ Kind Request:
 Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
 ========================================================================================================
 												HAPPY LEARNING
+
 
 
 
