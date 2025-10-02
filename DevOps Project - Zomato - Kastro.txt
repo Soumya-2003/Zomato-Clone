@@ -488,6 +488,7 @@ You will see the Grafana dashboard
 The first thing that we have to do in Grafana is to add the data source
 Lets add the data source;
 
+You can either click on "connections" in the left pane or click on "data sources" in the window to add the data source.
 <Follow the process as explained in the video>
 
 Click on Dashboards in the left pane, you can see both the dashboards you have just added.
@@ -741,6 +742,7 @@ Kind Request:
 Once after you have successfully deployed the App, kindly share your experience on LinkedIn by Tagging me and also provide the YouTube link of this project in your post, as it helps others to access the video quickly. 
 ========================================================================================================
 												HAPPY LEARNING
+
 
 
 
